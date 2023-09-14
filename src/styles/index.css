@@ -1,12 +1,36 @@
-
-/* 
-
-    You can write your own styles here...
+.container {
+    margin: auto;
+    width: 50%;
+    background-color: #2D2F31;
+    padding: 10px;
+    color: white !important;
+    border-radius: 10px;
+    }
     
+    .add-btn{
+        float: right;
+        background-color: red;
+        color: white;
+       border: 0px;
+       padding-bottom: 0px;
+       padding-top: px;
+       border-radius: 50px;
+       margin-top: 4px;
+       
+       
+       
+    }
     
-    ...Or you can use the import command to include 
-    other sylesheets into your bunde as well, e.j:
+    #addtodoinput{
+        margin: auto;
+        width: 82%;
+        padding: 10px;
+        background-color: white;
+        border: 0%;
+    }
     
-    import 'relative/path/to/stylesheet.scss';
-
-*/
+    #addtodobutton{
+        padding: 10px;
+        border: 0%;
+        background-color: #41BF28;
+    }

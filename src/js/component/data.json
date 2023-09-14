@@ -1,0 +1,21 @@
+[{
+    "id":1,
+    "task": "ir de compras",
+    "completed": false
+},
+{
+    "id":2,
+    "task": "Lavar el carro",
+    "completed": false
+},
+{
+    "id":3,
+    "task": "Terminar Proyecto Final",
+    "completed": false
+},
+{
+    "id":4,
+    "task": "Agregar boton de log-out",
+    "completed": false
+}
+]
